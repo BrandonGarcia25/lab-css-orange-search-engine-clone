@@ -1,0 +1,131 @@
+html {
+ font-family: Roboto;
+ font-size: 26px;
+ font-weight: 900;
+ line-height: 58px;
+ letter-spacing: 0px;
+ text-align: left;
+ display: flex;
+ flex-direction: column;
+ justify-content: center;
+ align-items: center;
+}
+
+.orangeIcon {
+    color: #F8765E; 
+    display: flex; 
+    align-items: center; 
+    justify-content: center;
+}
+
+.orangeName {
+font-family: Roboto;
+font-size: 26px;
+font-weight: 900;
+line-height: 58px;
+letter-spacing: 0px;
+}
+
+.navigationMenu {
+    font-family: Roboto;
+font-size: 16px;
+    color: #031D5B; 
+    padding:0;
+    margin: 0;
+    border: 0;
+    list-style: none;
+    display: flex; 
+    justify-content: space-evenly; 
+}
+
+.iPhoneMockup{
+    display: flex;
+    justify-content: center;
+}
+
+.searchBar{
+    font-family: Roboto;
+font-size: 16px;
+font-weight: 700;
+line-height: 20px;
+letter-spacing: 0px;
+text-align: center;
+background-size: 336px ;
+    background-color: white;
+    border: 1px solid #F8765E; 
+    padding: 10px 10px 10px 10px; 
+}
+
+.mainInfo{
+    line-height: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    font-family: Encode Sans;
+    font-size: 32px;
+    font-weight: 800;
+    line-height: 40px;
+    letter-spacing: 0px;
+    line-height: 40px;
+    text-align: center;    
+display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+p {
+    font-family: Encode Sans;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0px;
+    text-align: center;  
+}
+
+.features {
+font-family: Encode Sans;
+font-size: 16px;
+font-weight: 700;
+line-height: 32px;
+letter-spacing: 0px;
+text-align: left;
+list-style: none; white;
+}
+
+.button {
+font-family: Encode Sans;
+color: white; 
+font-size: 16px;
+font-weight: 700;
+line-height: 32px;
+letter-spacing: 0px;
+text-align: center;
+background-color: #031D5B;
+width: 168px;
+height: 60px;
+top: 825px;
+left:
+}
+
+.rating{
+    font-family: Encode Sans;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 15px;
+    letter-spacing: 0px;
+    text-align: left;
+}
+
+footer {
+font-family: Roboto;
+font-size: 16px;
+font-weight: 700;
+line-height: 20px;
+letter-spacing: 0px;
+text-align: center;
+}
